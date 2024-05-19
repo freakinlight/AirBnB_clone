@@ -14,4 +14,8 @@ To start the command interpreter, follow these steps:
    ```bash
    git clone https://github.com/your_username/AirBnB_clone.git
    cd AirBnB_clone
+2. **Make the console script executable**:
+   chmod +x console.py
+3. **Run the console**:
+   ./console.py
 
